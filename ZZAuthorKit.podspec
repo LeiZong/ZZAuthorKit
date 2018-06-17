@@ -39,4 +39,14 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Masonry'
+  s.dependency 'YYWebImage'
+  s.dependency 'ReactiveCocoa', '~> 2.5'
+  s.dependency 'ZZCategoryKit', '~> 0.1.1'
+  s.dependency 'ZZAPIsKit', '~> 0.1.1'
+  s.dependency 'ZZReformerKeysKit'
+  s.dependency 'ZZToolsKit'
+  s.dependency 'ZZConfigsKit'
+  s.dependency 'ZZMainViewKit'
+
 end

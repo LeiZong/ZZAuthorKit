@@ -1,0 +1,6 @@
+framework module ZZConfigsKit {
+  umbrella header "ZZConfigsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

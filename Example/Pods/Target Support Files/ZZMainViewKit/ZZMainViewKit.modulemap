@@ -1,0 +1,6 @@
+framework module ZZMainViewKit {
+  umbrella header "ZZMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

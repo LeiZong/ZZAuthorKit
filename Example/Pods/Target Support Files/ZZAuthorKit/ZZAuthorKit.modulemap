@@ -1,0 +1,6 @@
+framework module ZZAuthorKit {
+  umbrella header "ZZAuthorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

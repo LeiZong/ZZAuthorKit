@@ -1,0 +1,6 @@
+framework module ZZToolsKit {
+  umbrella header "ZZToolsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

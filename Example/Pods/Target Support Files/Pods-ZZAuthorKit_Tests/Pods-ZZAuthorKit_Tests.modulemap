@@ -1,0 +1,6 @@
+framework module Pods_ZZAuthorKit_Tests {
+  umbrella header "Pods-ZZAuthorKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
