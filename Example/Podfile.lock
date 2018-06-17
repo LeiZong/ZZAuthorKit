@@ -36,7 +36,7 @@ PODS:
   - ZZAPIsKit (0.1.1):
     - AFNetworking
     - FMDB
-  - ZZAuthorKit (0.1.0):
+  - ZZAuthorKit (0.1.1):
     - Masonry
     - ReactiveCocoa (~> 2.5)
     - YYWebImage
@@ -88,7 +88,7 @@ SPEC CHECKSUMS:
   YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
   YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
   ZZAPIsKit: b8f9e0713ffcd409afd4cdb00cb25a6b2ce5ccfa
-  ZZAuthorKit: 79a6bfb548748056105c5136094d6e59f2e512e8
+  ZZAuthorKit: 32d58aa8c40a04d6ca89a432e66675d2f62b5c45
   ZZCategoryKit: 19bd29e6457b5abc2adfb5a32c26181e146508f1
   ZZConfigsKit: f8889beaab8df87bd5f32e95dbecbee810c6c3cd
   ZZMainViewKit: 672a9b24091d9253a7aaaf6c8d7e36a04359694d
