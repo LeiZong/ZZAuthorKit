@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZZAuthorKit_Example' do
+  pod 'ZZAuthorKit', :path => '../'
+
+  target 'ZZAuthorKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
